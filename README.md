@@ -1,6 +1,6 @@
 <h2>Project: Voice Decoder for identifying the person</h2>
 
-Automatic Speaker Recognition algorithms in Python
+<li>Automatic Speaker Recognition algorithms in Python</li>
 
 This repository contains Python programs that can be used for identifying speaker. ASR is done by extracting MFCCs and LPCs from each speaker and then forming a speaker-specific codebook of the same by using Vector Quantization. After that, the system is trained and tested for 8 different speakers.
 
