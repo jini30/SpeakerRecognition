@@ -8,4 +8,4 @@ To test the algorithm, run test.py from the terminal. Certain parameters are ope
 
 To plot the spectrogram of an audio signal, run spectrogram.py. The program will take a random audio signal from the train folder and plot for that file, if you wish to plot for a particular audio file, change the filename variable in the .py file.
 
-A PDF has been included that explains the theory and provides links to relevant websites and projects.
+The following PDF that has been included explains the theory and provides links to relevant websites and projects.
